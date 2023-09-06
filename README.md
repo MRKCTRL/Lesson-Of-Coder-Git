@@ -4,3 +4,5 @@
 #hit and miss
 
 #things i will share regards to my projects and mostly lesosons as I embark this journey
+
+testing 1,testing  2, testing 3
